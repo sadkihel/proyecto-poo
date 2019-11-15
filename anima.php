@@ -18,5 +18,6 @@ class animal{
     public function getpeso(){
         return $this->peso;
     }
-
+ echo shiney;
+    echo probando
 }               
